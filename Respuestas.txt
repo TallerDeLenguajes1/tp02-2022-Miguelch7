@@ -1,2 +1,8 @@
 * ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?:
     No se puede ver el archivo "tp2_1_2.c" ya que me encuentro en la rama "master" y dicho archivo pertenece sólo a la rama "Opcion 2" debido a que fue creado en dicha rama.
+
+* Vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?:
+    Al ejecutar gitk --all noto que la rama "master" y la rama "Opcion 2" se dividieron.
+
+* Luego utilice el comando gitk --all ¿Qué nota?:
+    Noto que al utilizar git merge, las ramas "master" y "Opcion 2" se volvieron a unir.
