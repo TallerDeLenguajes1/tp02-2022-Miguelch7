@@ -1,0 +1,2 @@
+* ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?:
+    No se puede ver el archivo "tp2_1_2.c" ya que me encuentro en la rama "master" y dicho archivo pertenece sólo a la rama "Opcion 2" debido a que fue creado en dicha rama.
